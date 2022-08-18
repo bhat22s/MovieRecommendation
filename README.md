@@ -1,5 +1,5 @@
 # MovieRecommendation
-This program is a movie recommendation system which implements a memory-based, item-based, collaborative filtering algorithm. 
+This program is a movie recommendation system which implements an item-based, collaborative filtering algorithm. 
 
 ***Important Note: System can only be run on python3. 
 
